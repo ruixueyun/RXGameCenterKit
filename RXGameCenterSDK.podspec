@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RXGameCenterSDK'
-  s.version          = '4.1.0'
+  s.version          = '4.1.2'
   s.summary          = 'RXGameCenterSDK framework.'
 
 # This description is used to generate tags and improve searc results.
